@@ -4,7 +4,7 @@
 
 ## Purpose
 One Simple change was made
-
+Another Simple change was made
 ## Sample website with plenty of files for demos#
 
 ##Copyright
